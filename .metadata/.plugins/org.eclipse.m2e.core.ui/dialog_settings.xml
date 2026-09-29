@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\admin\HIBERNATE_WORKSPACE\UpdatetionHibernateApp"/>
+			<item value="C:\Users\admin\HIBERNATE_WORKSPACE\HibernateWithProperties"/>
+			<item value="C:\Users\admin\HIBERNATE_WORKSPACE\HibernateOneToOneMapping\src\main\resources\hibernate.cfg.xml"/>
+			<item value="C:\Users\admin\HIBERNATE_WORKSPACE\HibernateOneToOneMap"/>
+			<item value="C:\Users\admin\HIBERNATE_WORKSPACE\HibernateWithServlets"/>
+			<item value="C:\Users\admin\HIBERNATE_WORKSPACE\app01"/>
+			<item value="C:\Users\admin\HIBERNATE_WORKSPACE"/>
+			<item value="C:\Users\admin\HIBERNATE_WORKSPACE\app01\src"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org."/>
+		</list>
+		<list key="groupId">
+			<item value="com.deno"/>
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.deno"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="DemoProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="450"/>
+		<item key="x" value="197"/>
+		<item key="y" value="83"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="836"/>
+		<item key="x" value="197"/>
+		<item key="y" value="0"/>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="DemoPassWord"/>
+			<item value="FileType_HibernateApp"/>
+			<item value="PassWordEncryption_BCrypt"/>
+			<item value="ServeletsIntegretionWIthHIbernate"/>
+			<item value="DemoServelts"/>
+			<item value="com.hibernate"/>
+			<item value="com.hiber"/>
+			<item value="com.zacks"/>
+		</list>
+		<list key="name">
+			<item value="ServletsWithHibernate"/>
+			<item value="hibernateWithServlets"/>
+		</list>
+		<list key="artifactId">
+			<item value="DemoPassWord"/>
+			<item value="FileType_HibernateApp"/>
+			<item value="PassWordEncryption_BCrypt"/>
+			<item value="ServeletsIntegretionWIthHIbernate"/>
+			<item value="DemoServelts"/>
+			<item value="ServletsWithHibernate"/>
+			<item value="hibernateWithServlets"/>
+			<item value="HibernateWithServlets"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

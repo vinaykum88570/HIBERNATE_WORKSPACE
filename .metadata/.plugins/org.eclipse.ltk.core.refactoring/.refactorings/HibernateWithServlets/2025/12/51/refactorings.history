@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HibernateUtil.java&apos; to &apos;HibernateOneToOneMap/src/main/java/com.Entity&apos;&#x0D;&#x0A;- Original project: &apos;HibernateWithServlets&apos;&#x0D;&#x0A;- Destination element: &apos;HibernateOneToOneMap/src/main/java/com.Entity&apos;&#x0D;&#x0A;- Original element: &apos;com.util.HibernateUtil.java&apos;" description="Copy compilation unit" destination="=HibernateOneToOneMap/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Entity" element1="/src\/main\/java&lt;com.util{HibernateUtil.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1765881070469" units="1" version="1.0"/>
+</session>

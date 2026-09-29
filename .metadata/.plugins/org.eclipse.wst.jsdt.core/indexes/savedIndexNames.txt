@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\admin\HIBERNATE_WORKSPACE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1610858.index
+3142515075.index
+1312034501.index
+549841820.index
+2108010866.index

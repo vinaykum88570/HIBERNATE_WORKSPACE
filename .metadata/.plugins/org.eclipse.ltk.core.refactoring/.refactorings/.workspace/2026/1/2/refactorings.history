@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;HibernateWithServlets&apos;" deleteContents="true" description="Delete resource &apos;HibernateWithServlets&apos;" element1="/HibernateWithServlets" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1767535598229"/>&#x0A;<refactoring comment="Delete resource &apos;ServletsIntegretionWithHibernate&apos;" deleteContents="true" description="Delete resource &apos;ServletsIntegretionWithHibernate&apos;" element1="/ServletsIntegretionWithHibernate" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1767535688009"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HibernateManyToOne&apos; to &apos;HibernateManyToOneMap&apos;" description="Rename resource &apos;HibernateManyToOne&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/HibernateManyToOne" name="HibernateManyToOneMap" stamp="1765904847267" updateReferences="true"/>
+</session>
